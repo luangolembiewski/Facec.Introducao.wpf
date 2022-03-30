@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj": {}
+    "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj": {
+    "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
         "projectName": "Facec.Introducao.WPF",
-        "projectPath": "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
-        "packagesPath": "C:\\Users\\facec.lab01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\obj\\",
+        "projectPath": "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
+        "packagesPath": "C:\\Users\\facec.lab04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\facec.lab01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\facec.lab04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

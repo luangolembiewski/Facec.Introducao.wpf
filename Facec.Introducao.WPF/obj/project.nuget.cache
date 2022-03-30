@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kd48uK5GSvIzHYsmY3hycWt1KYmiVVvEOfcv9lA6ZyWfJapbQ4EiHeYZQASkwLien4n03TRKQnyRu/N0/+xlCA==",
+  "dgSpecHash": "wWQepy3hP6bY+bpykocJEp6yKy/Prmg51yFwvWA+CLfwkoIfvvtj99bl76bxoKabL4zpvI5qdUFeCMAwz2OfDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\facec.lab01\\source\\repos\\Facec.Introducao.WPF\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\facec.lab04\\Desktop\\Facec.Introducao.wpf\\Facec.Introducao.WPF\\Facec.Introducao.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

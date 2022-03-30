@@ -6,8 +6,8 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\facec.lab01\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\facec.lab01\\.nuget\\packages"
+      "C:\\Users\\facec.lab04\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\facec.lab04\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
